@@ -4,7 +4,7 @@
 ##滋賀
 
 - Code for Shiga / Biwako  
-http://www.facebook.com/codeforshiga/
+http://opendata.shiga.jp/
 - ICT湖都
 
 --
