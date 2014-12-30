@@ -1,6 +1,7 @@
 #関西のオープンデータ関連アクティビティー一覧
 
 ##Code for Shiga / Biwako
+http://www.facebook.com/codeforshiga/
 
 ##ICT湖都
 
