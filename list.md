@@ -1,6 +1,10 @@
 #関西のオープンデータ関連アクティビティー一覧
 
+
 ##滋賀
+
+##Code for Shiga / Biwako
+http://www.facebook.com/codeforshiga/
 
 ###Code for Shiga / Biwako
 
@@ -73,6 +77,5 @@
 ###Code for Kosen
 
 ###Linked Open Data Initiative
-
 
 
