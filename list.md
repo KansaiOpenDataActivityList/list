@@ -1,43 +1,78 @@
 #関西のオープンデータ関連アクティビティー一覧
 
-##Code for Shiga / Biwako
+##滋賀
 
-##ICT湖都
+###Code for Shiga / Biwako
 
-##Code for Kyoto
+###ICT湖都
 
-##オープンデータ京都実践会
+--
 
-##Opendata 丹波実行委員会
+##京都
 
-##Code For Nara
+###Code for Kyoto
 
-##CODE for IKOMA
+###オープンデータ京都実践会
 
-##Code for Osaka
+###Opendata 丹波実行委員会
 
-##ODI Osaka
+--
 
-##CODE for IKUNO
+##奈良
 
-##Code for Sakai
+###Code For Nara
 
-##Code for Hyogo
+###CODE for IKOMA
 
-##Code for Kobe
+--
 
-##Code for Wakayama
+##大阪
 
-##OpenStreetMap 関西
+###大阪市（大阪から考えるCivicTech）
 
-##自治体広報誌オープンデータ推進協議会
+###Code for Osaka
 
-##オープンデータ流通推進コンソーシアム
+###ODI Osaka
 
-##Code for Kansai
+###CODE for IKUNO
 
-##Code for Kinki
+###Code for Sakai
 
-##関西オープンデータで盛り上がってる有志の会
+--
 
-##Code for Kosen
+##兵庫
+
+###Code for Hyogo
+
+###Code for Kobe
+
+--
+
+##和歌山
+
+###Code for Wakayama
+
+--
+
+##その他
+
+###Code for Japan
+
+###OpenStreetMap 関西
+
+###自治体広報誌オープンデータ推進協議会
+
+###オープンデータ流通推進コンソーシアム
+
+###Code for Kansai
+
+###Code for Kinki
+
+###関西オープンデータで盛り上がってる有志の会
+
+###Code for Kosen
+
+###Linked Open Data Initiative
+
+
+
