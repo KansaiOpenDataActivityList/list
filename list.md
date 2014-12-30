@@ -7,6 +7,7 @@
 http://www.facebook.com/codeforshiga/
 
 ###Code for Shiga / Biwako
+http://www.facebook.com/codeforshiga/
 
 ###ICT湖都
 
@@ -15,6 +16,7 @@ http://www.facebook.com/codeforshiga/
 ##京都
 
 ###Code for Kyoto
+https://www.facebook.com/CodeForKyoto
 
 ###オープンデータ京都実践会
 
@@ -25,8 +27,10 @@ http://www.facebook.com/codeforshiga/
 ##奈良
 
 ###Code For Nara
+https://www.facebook.com/Code4Nara
 
 ###CODE for IKOMA
+https://www.facebook.com/code4ikoma
 
 --
 
@@ -34,19 +38,24 @@ http://www.facebook.com/codeforshiga/
 
 ###大阪市（大阪から考えるCivicTech）
 
+
 ###Code for Osaka
+https://www.facebook.com/CodeForOsaka
 
 ###ODI Osaka
 
 ###CODE for IKUNO
+http://code4osaka.org
 
 ###Code for Sakai
+http://code4sakai.org/
 
 --
 
 ##兵庫
 
 ###Code for Hyogo
+https://www.facebook.com/codeforkobe?fref=ts
 
 ###Code for Kobe
 
@@ -55,6 +64,7 @@ http://www.facebook.com/codeforshiga/
 ##和歌山
 
 ###Code for Wakayama
+http://codeforwakayama.doorkeeper.jp
 
 --
 
