@@ -58,6 +58,7 @@ http://codeforwakayama.doorkeeper.jp
 ##その他
 
 - Code for Japan
+http://code4japan.org/
 - OpenStreetMap 関西
 - 自治体広報誌オープンデータ推進協議会
 - オープンデータ流通推進コンソーシアム
